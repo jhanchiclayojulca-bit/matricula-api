@@ -493,7 +493,8 @@ Las capturas de los resultados se encuentran en la carpeta evidencias/:
 Para ejecutar los escenarios automatizados:
 
 ```powershell
-.\mvnw.cmd test -Dtest=SeguridadTestSuite
+.\mvnw.cmd test -Dtest= SeguridadTestSuite
+```
 
 
 # Pregunta 3: Calificaciones e historial académico con Serenity Screenplay
