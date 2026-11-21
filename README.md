@@ -493,4 +493,4 @@ Las capturas de los resultados se encuentran en la carpeta evidencias/:
 Para ejecutar los escenarios automatizados:
 
 ```powershell
-.\mvnw.cmd test -Dtest=CucumberTestSuite
+.\mvnw.cmd test -Dtest=SeguridadTestSuite
